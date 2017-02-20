@@ -1,0 +1,13 @@
+10 pts
+
+Phillip,
+
+The project idea seems interesting; however: 
+  - it is too simple; consider all possible outcomes when the player is at the
+    plate: a strike, a ball, ball hits player, player hits ball; what things
+    reset the counts? what things modify the DFA states without producing outs?
+
+
+Peace,
+
+- Dr. Rivas
