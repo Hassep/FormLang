@@ -1,0 +1,11 @@
+29 pts
+
+The project attempts to simmulate a half inning in a game of baseball. 
+The idea has good merit. 
+
+However, there are some issues...
+Code:
+- There is no code in the repository. -10pts
+
+Overall:
+- Decent work below average of a formal languages student. -1pt
